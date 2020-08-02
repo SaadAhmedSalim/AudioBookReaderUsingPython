@@ -37,3 +37,12 @@ PyPDF2 is a Pure-Python library built as a PDF toolkit. It is capable of:
 By being Pure-Python, it should run on any Python platform without any dependencies on external libraries. It can also work entirely on StringIO objects rather than file streams, allowing for PDF manipulation in memory. It is therefore a useful tool for websites that manage or manipulate PDFs.
 
 <b>I use a loop to do it like which page to which page I want to listen.</b>
+
+
+Credits :
+
+https://github.com/programminghero1
+
+Inspired By :
+
+https://www.youtube.com/watch?v=HE6iHgqlnBk&t=233s
